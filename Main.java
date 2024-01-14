@@ -24,9 +24,7 @@ public class Main {
 				else
 				System.out.println("Enter a Valid Number");
 			}
-			
 		}
-		
 		catch(Exception e)
 		{
 			System.out.println(e);
